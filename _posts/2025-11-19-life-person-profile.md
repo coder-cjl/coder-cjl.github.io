@@ -1,7 +1,9 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: 这是雷子
+author: 雷子
+date: 2025-11-19 16:00:00 +0800
+categories: [生活, 随笔]
+tags: [生活, 个人简介]
 ---
 
 你好！我是雷子。
