@@ -4,22 +4,33 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip } -->
+你好！我是雷子。
 
-# 👋 **Hi, I'm Lei zi!**
+一名专注于移动端和前端开发的技术人员，目前主要使用Swift、Dart、TypeScript进行开发工作，在工作之余，也会尝试使用Python和Kotlin进行一些个人项目的开发。
 
-I'm a Front-end Developer.
+热爱户外，喜欢骑行、登山和跑步等运动项目，这些活动不仅让我保持身体健康，也让我在忙碌的工作中找到平衡与放松。
 
-💻 **Language Skills**:
+目前每个月我会进行跑步训练，跑量大概150KM/月，目标是提升自己的马拉松成绩，同时也计划在未来尝试更多的户外探险活动。
+
+喜欢旅行，偶尔会制作一些旅行视频，会和爱人去探索不同的文化和风景，这让我们对世界有了更深的理解和热爱。
+
+
+#### 为什么会有这个博客？
+写作是我表达思想和分享经验的重要方式，我会不定期在博客上分享我的技术见解和生活感悟，也有可能会是一些旅行见闻和户外活动的记录。
+
+我也会在个人微信公众号 **雷子跑不快** 上分享一些内容，欢迎大家关注和交流。
+
+#### 爱好
+- 骑行（参加过环法中国赛、环千岛湖骑行、环崇明岛骑行，目前在计划一场1000KM的骑行）
+- 登山（洛克线、贡嘎大环线2次、雅拉雪山、甘南3次、五台山大环线、太行山、江浙周围所能爬的山峰）
+- 跑步（绍兴马拉松3次、杭州马拉松、无锡马拉松、苏州马拉松2次，其余不知名赛事）
+- 越野跑（N多次江浙周围不知名赛事）
+
+#### 技术栈
 
 `Swift`、`Dart`、`SwiftUI`、`Objective-C`、`TypeScript`、`Python`、`Kotlin`、`Java`
 
-🚀 **Hobbies**:
-- Biking (Tour de France China Race)
-- Mountain Climbing (Gongga, Lok, etc)
-- Marathon (The best half marathon time is 1 hour 40 minutes.)
-- Travel (I have visited all the provinces in China)
 
-📧 **Email**
-- cjlsire@126.com
+#### 联系方式
+- Email: `cjlsire@126.com`
+- WeChat: `cjlsire`
