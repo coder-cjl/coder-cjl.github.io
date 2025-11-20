@@ -1,5 +1,5 @@
 ---
-title: Mac使用FFmpeg进行屏幕录制,并使用VLC本地播放
+title: Mac使用FFmpeg进行屏幕录制，并使用VLC本地播放
 author: 雷子
 date: 2025-11-20 13:00:00 +0800
 categories: [技术, FFmpeg]
