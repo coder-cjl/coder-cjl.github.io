@@ -1,0 +1,101 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://coder-cjl.github.io/</id>
+  <title>雷子跑不快</title>
+  <subtitle>世界很大，而我很小</subtitle>
+  <updated>2025-11-20T14:42:19+08:00</updated>
+  <author>
+    <name>雷子</name>
+    <uri>https://coder-cjl.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://coder-cjl.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="zh-CN"
+    href="https://coder-cjl.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 雷子 </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Mac使用FFmpeg进行屏幕录制，并使用VLC本地播放</title>
+    <link href="https://coder-cjl.github.io/posts/dev-ffmpeg-record/" rel="alternate" type="text/html" title="Mac使用FFmpeg进行屏幕录制，并使用VLC本地播放" />
+    <published>2025-11-20T13:00:00+08:00</published>
+  
+    <updated>2025-11-20T13:00:00+08:00</updated>
+  
+    <id>https://coder-cjl.github.io/posts/dev-ffmpeg-record/</id>
+    <content type="text/html" src="https://coder-cjl.github.io/posts/dev-ffmpeg-record/" />
+    <author>
+      <name>雷子</name>
+    </author>
+
+  
+    
+    <category term="技术" />
+    
+    <category term="FFmpeg" />
+    
+  
+
+  <summary>这是一篇关于如何在Mac上使用FFmpeg进行屏幕录制，并使用VLC播放器进行本地播放的教程，默认读者已经安装好了FFmpeg和VLC播放器。 本文将介绍如何使用FFmpeg命令行工具进行屏幕录制，并通过VLC播放器进行实时播放，对于FFmpeg和VLC的安装和基础使用，读者可以参考相关文档。  1. Mac上捕获屏幕的FFmpeg输入源 在Mac上，FFmpeg可以使用avfoundation输入源来捕获屏幕内容。要查看可用的设备列表，可以运行以下命令：  ffmpeg -f avfoundation -list_devices true -i ""   你会看到类似如下的输出：  AVFoundation video devices: [0] Capture screen 0 [1] FaceTime HD Camera  AVFoundation audio devices: ...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>使用 TypeScript 脚本优化小程序页面结构</title>
+    <link href="https://coder-cjl.github.io/posts/dev-ts-scripts/" rel="alternate" type="text/html" title="使用 TypeScript 脚本优化小程序页面结构" />
+    <published>2025-11-19T17:10:00+08:00</published>
+  
+    <updated>2025-11-19T17:14:52+08:00</updated>
+  
+    <id>https://coder-cjl.github.io/posts/dev-ts-scripts/</id>
+    <content type="text/html" src="https://coder-cjl.github.io/posts/dev-ts-scripts/" />
+    <author>
+      <name>雷子</name>
+    </author>
+
+  
+    
+    <category term="技术" />
+    
+    <category term="TypeScript" />
+    
+  
+
+  <summary>项目背景 Taro + TypeScript 构建微信小程序。  项目结构 小程序项目中，默认有    index.config.ts   index.tsx   style.less   其中index.config.ts 用于配置小程序页面的窗口表现和功能，index.tsx 是页面的主要逻辑和结构，style.less 则用于定义页面的样式。  问题背景 在实际的项目开发中，我发现index.tsx中有太多的逻辑代码，导致文件变得臃肿且难以维护。为了提高代码的可读性和可维护性，我决定将一些通用的功能和逻辑抽离出来，放到单独的脚本文件中。 这样做不仅可以让index.tsx文件更加简洁，还能促进代码的复用。  实现步骤 我尝试创建了一个logic.ts文件，用于存放一些通用的逻辑函数和处理流程。然后在index.tsx中通过import语句引入这个logic.ts文件，并调用其中...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>这是雷子</title>
+    <link href="https://coder-cjl.github.io/posts/life-person-profile/" rel="alternate" type="text/html" title="这是雷子" />
+    <published>2025-11-19T16:00:00+08:00</published>
+  
+    <updated>2025-11-19T16:10:00+08:00</updated>
+  
+    <id>https://coder-cjl.github.io/posts/life-person-profile/</id>
+    <content type="text/html" src="https://coder-cjl.github.io/posts/life-person-profile/" />
+    <author>
+      <name>雷子</name>
+    </author>
+
+  
+    
+    <category term="生活" />
+    
+    <category term="随笔" />
+    
+  
+
+  <summary>你好！我是雷子。  一名专注于移动端和前端开发的技术人员，目前主要使用Swift、Dart、TypeScript进行开发工作，在工作之余，也会尝试使用Python和Kotlin进行一些个人项目的开发。  热爱户外，喜欢骑行、登山和跑步等运动项目，这些活动不仅让我保持身体健康，也让我在忙碌的工作中找到平衡与放松。  目前每个月我会进行跑步训练，跑量大概150KM/月，目标是提升自己的马拉松成绩，同时也计划在未来尝试更多的户外探险活动。  喜欢旅行，偶尔会制作一些旅行视频，会和爱人去探索不同的文化和风景，这让我们对世界有了更深的理解和热爱。  为什么会有这个博客？ 写作是我表达思想和分享经验的重要方式，我会不定期在博客上分享我的技术见解和生活感悟，也有可能会是一些旅行见闻和户外活动的记录。  我也会在个人微信公众号 雷子跑不快 上分享一些内容，欢迎大家关注和交流。  爱好    骑行（参...</summary>
+
+  </entry>
+
+</feed>
+
+
